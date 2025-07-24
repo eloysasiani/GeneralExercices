@@ -8,8 +8,7 @@ This repository is organized by specific learning topics.
 Each topic has its own named folder containing several related exercises.  
 All of these topic folders are located inside the main `exercicios/` directory.
 
-There is also a separate folder called `solucoes/`,  
-which mirrors the structure of the `exercicios/` directory  
+There is also a separate folder called `solucoes/`, which mirrors the structure of the `exercicios/` directory  
 (same folder and file names), but contains the proposed solutions for each exercise.
 ## 🛠 Requirements 
 To get the most out of this repository, it's recommended that you have:
