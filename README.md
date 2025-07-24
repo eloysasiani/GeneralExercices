@@ -37,18 +37,18 @@ To contribute, you can follow these simple steps:
    ```bash
    git checkout -b my-feature
    ```
- Commit your changes with clear messages:
+3. Commit your changes with clear messages:
 
 ```bash
 git commit -m "Add exercise about arrays"
 ```
 
-Push your branch to your forked repo:
+4. Push your branch to your forked repo:
 
 ```bash
 git push origin my-suggestion
 ```
-Open a pull request explaining your changes
+5. Open a pull request explaining your changes
 
 Every contribution will be reviewed with attention and respect. ✨
 ## 📄 License
