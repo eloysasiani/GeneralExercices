@@ -34,9 +34,9 @@ To contribute, you can follow these simple steps:
 
 1. Fork the repository.
 2. Create a new branch for your changes:  
-   ```bash
-   git checkout -b my-feature
-   ```
+```bash
+git checkout -b my-feature
+```
 3. Commit your changes with clear messages:
 
 ```bash
