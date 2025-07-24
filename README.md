@@ -65,7 +65,7 @@ As long as proper credit is given to the original author.
 ## Why did I do that? 🤔🚀🔥
 While I learn JavaScript, I have a lot of difficulties finding good exercises with clear solutions that are well organized 🤯📚, and it's important to practice consistently and truly enhance skills 💪✨.
 
-That's why I decided to create this repository full of JS exercises, with easy-to-follow answers and a structure that helps you practice better every day 🧑‍💻⚡.
+That's why I decided to create this repository full of JS exercises, with easy-to-follow answers and a structure that helps you practice better every day 👧⚡.
 
 Because becoming a great programmer means practicing a lot, understanding deeply, and having the right resources at hand 🛠️🚀. This repository is my way of helping everyone who wants to improve and have fun programming 🎉👩‍💻👨‍💻.
 
