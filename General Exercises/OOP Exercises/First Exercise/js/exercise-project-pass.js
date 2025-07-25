@@ -66,6 +66,7 @@ Ou seja, a aplicação deve:
 * Usar JavaScript para capturar esses dados, criar os objetos com as classes definidas
 * Exibir no próprio HTML o resumo da passagem gerado pelas classes
 * Garantir que o código JS manipule o DOM para mostrar mensagens e resultados dinamicamente
+**Usar async e xhr
 
 ---
 

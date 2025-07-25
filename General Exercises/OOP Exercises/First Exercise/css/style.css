@@ -27,7 +27,6 @@ body {
   border-radius: 10px;
 }
 
-/* Para todos os inputs dentro do form com id form-passagem */
 #form-passagem input,
 #form-passagem label,
 #form-passagem select,
@@ -70,7 +69,7 @@ body {
 }
 
 /* Estilos para o resumo da passagem */
-#resumo-passagem {
+#resumo {
   font-family: 'Courier New', Courier, monospace;
   white-space: pre-wrap;
   background-color: #f9f9f9;
@@ -78,4 +77,5 @@ body {
   border-radius: 5px;
   border: 1px solid #ddd;
   color: #333;
+  margin-top: 30px;
 }
